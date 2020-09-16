@@ -1,7 +1,5 @@
 ## code to prepare `key_crop_yields` dataset goes here
 
-#usethis::use_data(key_crop_yields, overwrite = TRUE)
-
 
 library(readr)
 library(janitor)
@@ -20,3 +18,4 @@ key_crop_yields <- read_csv(url) %>%
   rename(country = entity)
 
 
+usethis::use_data(key_crop_yields, overwrite = TRUE)
