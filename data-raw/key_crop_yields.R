@@ -1,5 +1,8 @@
 ## code to prepare `key_crop_yields` dataset goes here
-
+## usethis::use_readme_rmd() usethis::use_package("tibble")
+## use_gpl3_license() usethis::use_git()
+## devtools::document() # Ctrl+Shift+D  helpfile
+## devtools::load_all(".") # Ctrl + Shift + L
 
 library(readr)
 library(janitor)
