@@ -3,6 +3,8 @@
 ## use_gpl3_license() usethis::use_git()
 ## devtools::document() # Ctrl+Shift+D  helpfile
 ## devtools::load_all(".") # Ctrl + Shift + L
+## usethis::use_github_action("pkgdown") create website for the package
+## devtools::check() # Ctrl + Shift + E
 
 library(readr)
 library(janitor)
