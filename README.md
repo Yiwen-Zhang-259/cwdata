@@ -5,6 +5,8 @@
 
 <!-- badges: start -->
 
+[![R build
+status](https://github.com/Yiwen-Zhang-259/cwdata/workflows/R-CMD-check/badge.svg)](https://github.com/Yiwen-Zhang-259/cwdata/actions)
 <!-- badges: end -->
 
 The goal of cwdata is to …

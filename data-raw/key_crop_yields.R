@@ -5,6 +5,7 @@
 ## devtools::load_all(".") # Ctrl + Shift + L
 ## usethis::use_github_action("pkgdown") create website for the package
 ## devtools::check() # Ctrl + Shift + E
+## usethis::use_github_action_check_standard() let github have the workflow to check the package
 
 library(readr)
 library(janitor)
